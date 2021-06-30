@@ -5,7 +5,9 @@ $ git config --global user.email dpoetsch@gmail.com
 $ git status
 $ git add *
 $ git commit -m "Primeiro commit"
-
-
-
-
+$ git tag v2
+$ git checkout 602e5722c2bdc7816d892e5458beaafdd9ac3bf7
+$ git tag v1
+$ git checkout v2
+$ ssh-keygen
+$ git push -u origin main
