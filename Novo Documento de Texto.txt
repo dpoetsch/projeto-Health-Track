@@ -4,5 +4,8 @@ $ git config --global user.name "Diogo Poetsch"
 $ git config --global user.email dpoetsch@gmail.com
 $ git status
 $ git add *
-$ git status
+$ git commit -m "Primeiro commit"
+
+
+
 
